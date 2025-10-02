@@ -2,7 +2,7 @@
 
 ## flsim
 
-# DESCRIPTION
+**DESCRIPTION**
 This function is used to run a single simulation of the GLOWORM-FL model (Rose et al. 2015) in R (https://www.r-project.org/) for either Haemonchus contortus or Teladorsagia
 circumcincta infecting sheep/goats/deer or Ostertagia ostertagi infecting cattle.
 
